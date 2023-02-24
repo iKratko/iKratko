@@ -23,7 +23,9 @@
 </ul>
 
 ### ✅ Completed projects:
+<p>
     🏫 https://www.eg-dg-bg.com/ <i>(Language High school website)</i>
     📖 http://dglib.escom.bg/ <i>(Library website)</i>
     📊 Dinamic charts with political voting results, used in local tv news as live overlay
     🤖 Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i>
+</p>
