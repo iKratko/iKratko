@@ -11,7 +11,7 @@
 ### 🏆 Achivements:
 <ul>
   🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />
-  🏫 <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" High school with average score: 5.71)</i>
+  🏫 <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
 
 ### ✅ Completed projects:
