@@ -36,7 +36,7 @@
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/255832/sql.svg"/>
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
 <img align="left" alt="intelliJ" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"/>
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354520/visual-studio.svg"/>
@@ -47,7 +47,7 @@
 <img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354575/xampp.svg"/>
 <img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/filezilla.png"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
-<img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374187/word.svg"/>
+<img align="left" alt="Neo4j" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg"/>
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
 <img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373989/powerpoint.svg"/>
 <img align="left" alt="Access" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373415/access.svg"/>
