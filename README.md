@@ -21,3 +21,6 @@
   📊 Dinamic charts with political voting results, used in local tv news as live overlay <i>(Private use. See pictures <a href="https://imgur.com/a/rSxJx7K" target="_blank">here</a>)</i><br />
   🤖 Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i>
 </ul> 
+
+---
+
