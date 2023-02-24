@@ -54,7 +54,7 @@
 <img align="left" alt="Project" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-project-2019.png"/>
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373968/photoshop.svg"/>
 <img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452150/adobe-premiere.svg"/>
-<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 <img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475696/wordpress-color.svg"/>
 <img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencart.png"/>
