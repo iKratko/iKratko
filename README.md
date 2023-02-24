@@ -5,15 +5,22 @@
 ### Goals:
 <ul>
   <li>
-    Obtaining the title <strong>Software engeneer</strong> on Java path <italic>(from Software University)</italic>
+    Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i>
   </li>
   <li>
-    Obtaining <strong>Master's degree</strong> in Artificial Intelligence <italic>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</italic>
+    Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
   </li>
 </ul>
 
 ### Achivements:
-
+<ul>
+  <li>
+    Obtained <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski")</i>
+  </li>
+  <li>
+    
+  </li>
+</ul>
 
 ### Completed projects:
 <ul>
