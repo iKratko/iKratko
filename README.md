@@ -5,7 +5,7 @@
 ### 🎯 Goals:
 <ul>
   💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i><br />
-  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
+  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski")</i>
 </ul>
 
 ### 🏆 Achivements:
@@ -13,6 +13,37 @@
   🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />
   🏫 <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
+
+<details>
+<summary> ### 🏅 Certificates:</summary>
+  <ul>
+    <li>
+      14.07.22 - Certificate of participation
+      IXth International Conference of Young Scientists – Plovdiv 2022. -
+      For presenting a scientific paper entitled "Lesson in IT with artificial intelligence GalaAI"
+    </li>
+    <li>
+      14.07.22 - Certificate
+      IXth International Conference of Young Scientists – Plovdiv 2022. -
+      For best presentation in the scientific section "TECHNICS AND TECHNOLOGIES"
+    </li>
+    <li>
+      07.01.22 - Certificate of Achivement 
+      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 4.
+    </li>
+    <li>
+      10.01.20 - Certificate of Achivement 
+      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 3.
+    </li>
+    <li>
+      30.07.19 - Certificate of Achivement 
+      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 2.
+    </li>
+    <li>
+      15.03.19 - Certificate of Achivement 
+      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 1.
+    </li>
+  </ul>
 
 ### ✅ Completed projects:
 <ul>
