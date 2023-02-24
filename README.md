@@ -26,23 +26,24 @@
 
 ### 🧰 Languages and Tools
 
-#### Languages
-<img align="right" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="right" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="right" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="right" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="right" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<img align="right" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="right" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="right" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="right" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="right" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/255832/sql.svg"/>
-<img align="right" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
+#### Languages:
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/255832/sql.svg"/>
+<img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
 <br />
 
 #### FrameWorks:
-<img align="right" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353940/jquery.svg"/>
-<img align="right" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
+<img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
 <br />
 
 #### Content management systems:
@@ -63,4 +64,12 @@
 <br />
 
 #### Tools:
+<img align="left" alt="intelliJ" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"/>
+<img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354520/visual-studio.svg"/>
+<img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"/>
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/424904/logo-google-android-studio-2.svg"/>
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/424904/https://www.svgrepo.com/show/374194/xcode.svg"/>
 <img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354575/xampp.svg"/>
+<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/341818/filezilla.svg"/>
+<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
