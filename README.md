@@ -1,5 +1,7 @@
 # 🐐 Velyord
 
+**`Digital Craftsman (Software engeneer with a passion for Automation)`**
+
 <!--
 **Velyord/Velyord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
