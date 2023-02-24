@@ -2,27 +2,27 @@
 
 **`Digital Craftsman (Software engeneer with a passion for Automation)`**
 
-### Goals:
+#### Goals:
 <ul>
   <li>
-    Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i>
+    Obtaining the title <u><strong>Software engeneer</strong></u> on Java path <i>(from Software University)</i>
   </li>
   <li>
-    Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
+    Obtaining <u><strong>Master's degree</strong></u> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
   </li>
 </ul>
 
-### Achivements:
+#### Achivements:
 <ul>
   <li>
-    Obtained <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski")</i>
+    Obtained <u><strong>Bachelor's degree</strong></u> in Informatics <i>(from Plovdiv University "Paisii Hilendarski")</i>
   </li>
   <li>
     
   </li>
 </ul>
 
-### Completed projects:
+#### Completed projects:
 <ul>
   <li>
     https://www.eg-dg-bg.com/
