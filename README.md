@@ -26,7 +26,7 @@
 
 ### 🧰 Languages and Tools
 
-<p>Languages: 
+#### Languages: 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
@@ -38,7 +38,7 @@
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="JS" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354200/postgresql.svg"/>
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/255832/sql.svg"/>
-<img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/></p>
+<img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
 <br />
 
 #### Tools:
