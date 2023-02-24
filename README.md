@@ -65,7 +65,7 @@
 <img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452150/adobe-premiere.svg"/>
 <br />
 
-#### FrameWorks:
+#### Frameworks:
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
 <img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
 <br />
