@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Software engeneer with a passion for Automation)`**
 
-### Goals:
+###🎯 Goals:
 <ul>
   <li>
     Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i>
@@ -12,7 +12,7 @@
   </li>
 </ul>
 
-### Achivements:
+###🏆 Achivements:
 <ul>
   <li>
     <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i>
@@ -22,18 +22,18 @@
   </li>
 </ul>
 
-### Completed projects:
+###✅ Completed projects:
 <ul>
   <li>
-    https://www.eg-dg-bg.com/ <i>(English High school website)</i>
+    🏫 https://www.eg-dg-bg.com/ <i>(Language High school website)</i>
   </li>
   <li>
-    http://dglib.escom.bg/ <i>(Library website)</i>
+    📖 http://dglib.escom.bg/ <i>(Library website)</i>
   </li>
   <li>
-    Dinamic charts with political voting results, used in local tv news as live overlay
+    📊 Dinamic charts with political voting results, used in local tv news as live overlay
   </li>
   <li>
-    Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i>
+    🤖 Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i>
   </li>
 </ul>
