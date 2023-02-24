@@ -42,7 +42,6 @@
 <img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
 <img align="left" alt="intelliJ" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"/>
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354520/visual-studio.svg"/>
-<br /><br />
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/android-studio--v3.png"/>
