@@ -1,4 +1,4 @@
-# 🐐 Velyord
+# Velyord
 
 **`Digital Craftsman (Software engeneer with a passion for Automation)`**
 
