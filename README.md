@@ -42,11 +42,11 @@
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354520/visual-studio.svg"/>
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>
-<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/424904/logo-google-android-studio-2.svg"/>
+<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/android-studio--v3.png"/>
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374194/xcode.svg"/>
 <img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354575/xampp.svg"/>
-<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/341818/filezilla.svg"/>
-<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
+<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/filezilla.png"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
 <img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374187/word.svg"/>
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
 <img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373989/powerpoint.svg"/>
@@ -56,4 +56,4 @@
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
 <img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475696/wordpress-color.svg"/>
-<img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354138/opencart.svg"/>
+<img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencart.png"/>
