@@ -41,28 +41,6 @@
 <img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
 <br />
 
-#### FrameWorks:
-<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
-<img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
-<br />
-
-#### Content management systems:
-<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475696/wordpress-color.svg"/>
-<img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354138/opencart.svg"/>
-<br />
-
-#### Adobe:
-<img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373968/photoshop.svg"/>
-<img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452150/adobe-premiere.svg"/>
-<br />
-
-#### Microsoft:
-<img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374187/word.svg"/>
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
-<img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373989/powerpoint.svg"/>
-<img align="left" alt="Access" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373415/access.svg"/>
-<br />
-
 #### Tools:
 <img align="left" alt="intelliJ" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"/>
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354520/visual-studio.svg"/>
@@ -73,3 +51,25 @@
 <img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354575/xampp.svg"/>
 <img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/341818/filezilla.svg"/>
 <img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
+<br />
+
+#### Microsoft:
+<img align="left" alt="Word" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374187/word.svg"/>
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
+<img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373989/powerpoint.svg"/>
+<img align="left" alt="Access" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373415/access.svg"/>
+<br />
+
+#### Adobe:
+<img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373968/photoshop.svg"/>
+<img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452150/adobe-premiere.svg"/>
+<br />
+
+#### FrameWorks:
+<img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
+<img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
+<br />
+
+#### Content management systems:
+<img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475696/wordpress-color.svg"/>
+<img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354138/opencart.svg"/>
