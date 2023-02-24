@@ -23,7 +23,9 @@
 </ul>
 
 ### ✅ Completed projects:
-<p style="margin-left:20px">🏫 Language High school website <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br /></p>
-<p>    📖 Library website <i>(Check it <a href="http://dglib.escom.bg" target="_blank">here</a>)</i><br /></p>
-<p>    📊 Dinamic charts with political voting results, used in local tv news as live overlay <i>(Private use. See pictures <a href="https://imgur.com/a/rSxJx7K" target="_blank">here</a>)</i><br /></p>
-<p>    🤖 Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i></p>
+<ul>
+  🏫 Language High school website <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
+  📖 Library website <i>(Check it <a href="http://dglib.escom.bg" target="_blank">here</a>)</i><br />
+  📊 Dinamic charts with political voting results, used in local tv news as live overlay <i>(Private use. See pictures <a href="https://imgur.com/a/rSxJx7K" target="_blank">here</a>)</i><br />
+  🤖 Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i>
+</ul>
