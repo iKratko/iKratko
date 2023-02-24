@@ -43,7 +43,7 @@
 <img align="left" alt="Eclipse" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353685/eclipse-icon.svg"/>
 <img align="left" alt="PyCharm" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354237/pycharm.svg"/>
 <img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/android-studio--v3.png"/>
-<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374194/xcode.svg"/>
+<img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/xcode.png"/>
 <img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354575/xampp.svg"/>
 <img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/filezilla.png"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
@@ -51,6 +51,7 @@
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
 <img align="left" alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373989/powerpoint.svg"/>
 <img align="left" alt="Access" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373415/access.svg"/>
+<img align="left" alt="Project" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-project-2019.png"/>
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373968/photoshop.svg"/>
 <img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452150/adobe-premiere.svg"/>
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452242/jquery.svg"/>
