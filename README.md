@@ -3,7 +3,14 @@
 **`Digital Craftsman (Software engeneer with a passion for Automation)`**
 
 ### Goals:
-
+<ul>
+  <li>
+    Obtaining the title <strong>Software engeneer</strong> on Java path <italic>(from Software University)</italic>
+  </li>
+  <li>
+    Obtaining <strong>Master's degree</strong> in Artificial Intelligence <italic>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</italic>
+  </li>
+</ul>
 
 ### Achivements:
 
