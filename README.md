@@ -4,13 +4,13 @@
 
 ### 🎯 Goals:
 <ul>
-  💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i>
+  💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i><br />
   🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
 </ul>
 
 ### 🏆 Achivements:
 <ul>
-  🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i>
+  🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />
   🏫 <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" High school with average score: 5.71)</i>
 </ul>
 
