@@ -72,4 +72,4 @@
 <img align="left" alt="Xcode" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374194/xcode.svg"/>
 <img align="left" alt="XAMPP" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/354575/xampp.svg"/>
 <img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/341818/filezilla.svg"/>
-<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="FileZilla" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
