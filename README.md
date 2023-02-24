@@ -15,7 +15,7 @@
 </ul>
 
 <details>
-<summary> ### 🏅 Certificates:</summary>
+  <summary><h3> 🏅 Certificates:</h3></summary>
   <ul>
     <li>
       14.07.22 - Certificate of participation
@@ -44,6 +44,7 @@
       Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 1.
     </li>
   </ul>
+</details>
 
 ### ✅ Completed projects:
 <ul>
