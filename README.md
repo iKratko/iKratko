@@ -5,43 +5,35 @@
 ### Goals:
 <ul>
   <li>
-    Obtaining the title <strong><u>Software engeneer</u></strong> on Java path <i>(from Software University)</i>
+    Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i>
   </li>
   <li>
-    Obtaining <u><strong>Master's degree</strong></u> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
+    Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski"")</i>
   </li>
 </ul>
 
 ### Achivements:
 <ul>
   <li>
-    Obtained <u><strong>Bachelor's degree</strong></u> in Informatics <i>(from Plovdiv University "Paisii Hilendarski")</i>
+    <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i>
   </li>
   <li>
-    
+    <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" High school with average score: 5.71)</i>
   </li>
 </ul>
 
 ### Completed projects:
 <ul>
   <li>
-    https://www.eg-dg-bg.com/
+    https://www.eg-dg-bg.com/ <i>(English High school website)</i>
   </li>
   <li>
-    http://dglib.escom.bg/
+    http://dglib.escom.bg/ <i>(Library website)</i>
+  </li>
+  <li>
+    Dinamic charts with political voting results, used in local tv news as live overlay
+  </li>
+  <li>
+    Automation script for downloading database data from a doctor software <i>(+ private message alert when given doctor is completed)</i>
   </li>
 </ul>
-<!--
-**Velyord/Velyord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
