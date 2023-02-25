@@ -1,6 +1,6 @@
 # Velyord
 
-**`Digital Craftsman (with a passion for Automation)`**
+**`Digital Craftsman (with a passion for Automation)`** [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20039712/yoan-velyord) 
 
 ### 🎯 Goals:
 <ul>
