@@ -18,7 +18,7 @@
   <summary><h3>🏅 Certificates:</h3></summary>
   <ul>
     <details>
-      <summary><h4>SoftUni</h4></summary>
+      <summary>SoftUni</summary>
       <ul>
         <li>
           <i>13.12.22</i> - Successfully completed a course <strong>Programming Basics</strong> with 6.00
@@ -29,7 +29,7 @@
       </ul>
     </details>
     <details>
-      <summary><h4>IXth International Conference of Young Scientists - Plovdiv 2022</h4></summary>
+      <summary>IXth International Conference of Young Scientists - Plovdiv 2022</summary>
       <ul>
         <li>
           <i>14.07.22</i> - <strong>Presenting a scientific paper</strong> entitled "Lesson in IT with artificial intelligence GalaAI"
