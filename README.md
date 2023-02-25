@@ -65,6 +65,7 @@
   📖 Library website <i>(Check it <a href="http://dglib.escom.bg" target="_blank">here</a>)</i><br />
   📊 Dinamic charts with political voting results, used in local tv news as live overlay <i>(Private use. See pictures <a href="https://imgur.com/a/rSxJx7K" target="_blank">here</a>)</i><br />
   🤖 Automation script for downloading database from a doctor software <i>(+ message alert when given doctor is completed)</i>
+  💻 SoftUni mini projects <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i><br />
 </ul> 
 
 ---
