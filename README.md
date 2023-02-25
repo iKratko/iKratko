@@ -103,5 +103,3 @@
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475696/wordpress-color.svg"/>
 <img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencart.png"/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Velyord&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
