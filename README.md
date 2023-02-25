@@ -15,35 +15,46 @@
 </ul>
 
 <details>
-  <summary><h3> 🏅 Certificates:</h3></summary>
-  <ul>
-    <li>
-      14.07.22 - Certificate of participation
-      IXth International Conference of Young Scientists – Plovdiv 2022. -
-      For presenting a scientific paper entitled "Lesson in IT with artificial intelligence GalaAI"
-    </li>
-    <li>
-      14.07.22 - Certificate
-      IXth International Conference of Young Scientists – Plovdiv 2022. -
-      For best presentation in the scientific section "TECHNICS AND TECHNOLOGIES"
-    </li>
-    <li>
-      07.01.22 - Certificate of Achivement 
-      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 4.
-    </li>
-    <li>
-      10.01.20 - Certificate of Achivement 
-      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 3.
-    </li>
-    <li>
-      30.07.19 - Certificate of Achivement 
-      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 2.
-    </li>
-    <li>
-      15.03.19 - Certificate of Achivement 
-      Has successfully completed the training and passed the examination on knowledge of mental arithmetic - Level 1.
-    </li>
-  </ul>
+  <summary><h3>🏅 Certificates:</h3></summary>
+  <details>
+    <summary><h4>SoftUni</h4></summary>
+    <ul>
+      <li>
+        13.12.22 - Successfully completed a course <strong>Programming Basics</strong> with 6.00
+      </li>
+      <li>
+        23.11.22 - Successfully completed a course <strong>Android Development with Kotlin</strong> with 5.76
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary><h4>IXth International Conference of Young Scientists - Plovdiv 2022</h4></summary>
+    <ul>
+      <li>
+        14.07.22 - <strong>Presenting a scientific paper</strong> entitled "Lesson in IT with artificial intelligence GalaAI"
+      </li>
+      <li>
+        14.07.22 - <strong>Best presentation</strong> in the scientific section "TECHNICS AND TECHNOLOGIES"
+      </li>
+    </ul>
+  </details>
+  <details>
+    <summary><h4>Mental Arithmetic:</h3></summary>
+    <ul>
+      <li>
+        07.01.22 - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 4</strong>
+      </li>
+      <li>
+        10.01.20 - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 3</strong>
+      </li>
+      <li>
+        30.07.19 - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 2</strong>
+      </li>
+      <li>
+        15.03.19 - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 1</strong>
+      </li>
+    </ul>
+  </details>
 </details>
 
 ### ✅ Completed projects:
