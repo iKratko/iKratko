@@ -2,6 +2,11 @@
 
 **`Digital Craftsman (with a passion for Automation)`**
 
+### 🏦 Working at:
+<ul>
+  📺 Software department of an internet and television company
+</ul>  
+
 ### 🎯 Goals:
 <ul>
   💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i><br />
