@@ -105,5 +105,4 @@
 <img align="left" alt="OpenCart" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/opencart.png"/>
 
 <br /><br /><br /><br />
-<div align="right"> 
-  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20039712/yoan-velyord) </div>
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20039712/yoan-velyord)
