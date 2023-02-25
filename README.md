@@ -5,7 +5,7 @@
 ### 🎯 Goals:
 <ul>
   💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i><br />
-  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence <i>(from the colaboration of the National Military University "Vasil Levski" in Veliko Tarnovo and the Sofia University "St. Kliment Ohridski")</i>
+  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence
 </ul>
 
 ### 🏆 Achivements:
