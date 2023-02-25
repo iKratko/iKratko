@@ -61,16 +61,16 @@
 
 ### ✅ Completed projects:
 <ul>
-  🏫 Language High school <string>website</string> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
-  📖 Library <string>website</string> <i>(Check it <a href="http://dglib.escom.bg" target="_blank">here</a>)</i><br />
+  🏫 Language High school <strong>website</strong> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
+  📖 Library <strong>website</strong> <i>(Check it <a href="http://dglib.escom.bg" target="_blank">here</a>)</i><br />
   📊 Dinamic charts with political voting results, used in local tv as live overlay during news<i>(Private use. See pictures <a href="https://imgur.com/a/rSxJx7K" target="_blank">here</a>)</i><br />
-  🤖 <string>Automation script</string> for downloading database from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
-  💻 SoftUni <string>mini projects</string> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
+  🤖 <strong>Automation script</strong> for downloading database from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
+  💻 SoftUni <strong>mini projects</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
 </ul> 
 
 ### 🛠 Currently working on:
 <ul>
-  📱 <string>Android app</string> for streaming live tv <i>(Pocket tv)</i>
+  📱 <strong>Android app</strong> for streaming live tv <i>(Pocket tv)</i>
 </ul>
 
 ---
