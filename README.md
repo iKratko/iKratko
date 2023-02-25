@@ -40,7 +40,7 @@
       </ul>
     </details>
     <details>
-      <summary><h4>Mental Arithmetic:</h4></summary>
+      <summary>Mental Arithmetic:</summary>
       <ul>
         <li>
           <i>07.01.22</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 4</strong>
