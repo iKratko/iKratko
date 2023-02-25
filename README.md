@@ -1,4 +1,4 @@
-<img align="center" alt="Cover" src="https://i.imgur.com/FdSGjtv.jpg"/>
+<img align="center" alt="Cover" src="https://i.imgur.com/uCA2aTA.jpg"/>
 
 # 🐏 Velyord
 
