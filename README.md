@@ -1,5 +1,3 @@
-<img align="center" alt="Cover" src="https://i.imgur.com/uCA2aTA.jpg"/>
-
 # 🐏 Velyord
 
 **`Digital Craftsman (with a passion for Automation)`**
