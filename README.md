@@ -1,6 +1,6 @@
 # Velyord
 
-**`Digital Craftsman <i>(with a passion for Automation)</i>`**
+**`Digital Craftsman (with a passion for Automation)`**
 
 ### 🎯 Goals:
 <ul>
