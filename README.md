@@ -2,17 +2,52 @@
 
 **`Digital Craftsman (with a passion for Automation)`**
 
-<table border="0">
- <tr>
-    <td>
-     <script src="![Metrics](https://metrics.lecoq.io/Velyord?template=classic&base.skip=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=true&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FSofia)"></script>
-    </td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+![Metrics](https://metrics.lecoq.io/Velyord?template=classic&base.skip=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=true&isocalendar=false&isocalendar.duration=half-year&config.timezone=Europe%2FSofia)
+</td>
+<td>
+<!-- REMOVE THE BACKSLASHES -->
+\```jsonc
+{
+  "foo": [
+    {
+      "bar": "hello world"
+    }
+  ]
+}
+\```
+  
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
 </table>
     
 ### 🏦 Working at:
