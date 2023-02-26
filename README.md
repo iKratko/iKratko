@@ -5,12 +5,13 @@
 <div style="width: 100%">
   <div style="width: 50%; display: inline-block;"> 
     
-    ### 🏦 Working at:
+    <h3> 🏦 Working at:</h3>
     
     <ul>
       📺 Software department of an internet and television company <br />
       <i>Previously as:</i> 👦🏻 Kids instructor of mental arithmetics and programing + robotics
     </ul>
+    
   </div>
   <div style="width: 50%; display: inline-block;"> 
     
