@@ -100,7 +100,10 @@
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="Prolog" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/374005/prolog.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475654/github-color.svg"/>
-<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/><br><br><br>
+<img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
+
+
+
 <img align="left" alt="Access" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373415/access.svg"/>
 <img align="left" alt="Project" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-project-2019.png"/>
 <img align="left" alt="PhotoShop" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373968/photoshop.svg"/>
