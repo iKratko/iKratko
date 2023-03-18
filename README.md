@@ -40,6 +40,12 @@
   <summary><h3>🏅 Certificates:</h3></summary>
   <ul>
     <details>
+      <summary>Plovdiv University</summary>
+      <ul>
+        <li>
+          <i>18.03.23</i> - Certificate of commendation. Top of the class
+        </li>
+      </ul>
       <summary>SoftUni</summary>
       <ul>
         <li>
