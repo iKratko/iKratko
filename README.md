@@ -46,15 +46,17 @@
           <i>18.03.23</i> - Certificate of commendation. Top of the class
         </li>
       </ul>
-      <summary>SoftUni</summary>
-      <ul>
-        <li>
-          <i>13.12.22</i> - Successfully completed a course <strong>Programming Basics</strong> with 6.00
-        </li>
-        <li>
-          <i>23.11.22</i> - Successfully completed a course <strong>Android Development with Kotlin</strong> with 5.76
-        </li>
-      </ul>
+      </details>  
+      <details>  
+          <summary>SoftUni</summary>
+          <ul>
+            <li>
+              <i>13.12.22</i> - Successfully completed a course <strong>Programming Basics</strong> with 6.00
+            </li>
+            <li>
+              <i>23.11.22</i> - Successfully completed a course <strong>Android Development with Kotlin</strong> with 5.76
+            </li>
+          </ul>
     </details>
     <details>
       <summary>IXth International Conference of Young Scientists - Plovdiv 2022</summary>
