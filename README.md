@@ -18,11 +18,11 @@
 
 ### 🏆 Achivements:
 <ul>
-  🎓 <strong>Bachelor's degree</strong> in Informatics <br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />  
+  🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />  
     
 <img align="right" src="https://camo.githubusercontent.com/744bb64e8a2dab0cbcf95f4ee576ac73d74a840594afbe4a359f860113dc10bb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56656c796f7264267468656d653d6d6174726978266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d342672616e6b3d5345435245542c5353532c53532c532c4141412c41412c412c422c4326726f773d3226636f6c756d6e3d33" />
     
-  🏫 <strong>High school diploma</strong> in Mathematics and Informatics <br><i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
+  🏫 <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
 
 ### ✅ Completed projects:
