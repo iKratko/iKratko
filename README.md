@@ -129,4 +129,4 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20039712/yoan-velyord)
 ---
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Velyord&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Velyord&theme=matrix&no-frame=false&no-bg=true&margin-w=4&rank=S)
