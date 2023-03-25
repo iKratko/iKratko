@@ -21,7 +21,7 @@
   🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />
   🏫 <strong>High school diploma</strong> in Mathematics and Informatics <i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
-
+![Metrics](https://metrics.lecoq.io/Velyord?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=X&achievements.secrets=false&achievements.display=compact&achievements.limit=6&config.timezone=Europe%2FSofia)
 ### ✅ Completed projects:
 <ul>
   🏫 Language High school <strong>website</strong> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
