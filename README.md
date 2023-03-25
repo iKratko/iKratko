@@ -18,7 +18,7 @@
 
 ### 🏆 Achivements:
 <ul>
-  🎓 <strong>Bachelor's degree</strong> in Informatics <br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
+  🎓 <strong>Bachelor's degree</strong> in Informatics <i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
   🏫 <strong>High school diploma</strong> in Mathematics and Informatics <br><i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
 
