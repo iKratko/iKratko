@@ -126,6 +126,7 @@
 
 <br /><br /><br />
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20039712/yoan-velyord)
+[![](https://visitcount.itsvg.in/api?id=Velyord&icon=5&color=0)](https://visitcount.itsvg.in)
 ---
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Velyord&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
