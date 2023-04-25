@@ -128,9 +128,3 @@
 
 <br /><br /><br />
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20039712/yoan-velyord)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=velyord&show_icons=true&locale=en&layout=compact" alt="velyord" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=velyord&show_icons=true&locale=en" alt="velyord" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=velyord&" alt="velyord" /></p>
