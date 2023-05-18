@@ -26,7 +26,7 @@
 ### ✅ Completed projects:
 <ul>
   🏫 Language High school <strong>website</strong> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
-  📖 Library <strong>website</strong> <i>(Check it <a href="http://dglib.escom.bg" target="_blank">here</a>)</i><br />
+  📖 Library <strong>website</strong> <i>(Check it <a href="http://digilib.org" target="_blank">here</a>)</i><br />
   📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(Private use. See pictures <a href="https://imgur.com/a/rSxJx7K" target="_blank">here</a>)</i><br />
   🤖 <strong>Automation script</strong> in python for downloading data from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
   💻 SoftUni <strong>mini projects</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
