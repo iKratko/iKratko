@@ -26,18 +26,18 @@
 ### ✅ Completed projects:
 <ul>
   <details>
-      <summary>💻 <strong>Websites</strong></summary>
+      <summary>🎨 <strong>Websites</strong></summary>
       <ul>
         <li>
-          🏫 Language High school <strong>website</strong> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
+          🏫 Language High school website <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
         </li>
         <li>
-          📖 Library <strong>website</strong> <i>(Check it <a href="http://digitlib.org" target="_blank">here</a>)</i><br />
+          📖 Library website <i>(Check it <a href="http://digitlib.org" target="_blank">here</a>)</i><br />
         </li>
       </ul>
   </details>
   <details>
-      <summary>💻 <strong>Projects for companies</strong></summary>
+      <summary>🏭 <strong>Projects for companies</strong></summary>
       <ul>
         <li>
           📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
@@ -51,10 +51,10 @@
       <summary>🤖 <strong>Automation scripts</strong> in python</summary>
       <ul>
         <li>
-          for downloading data from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
+          ⬇ for downloading data from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
         </li>
         <li>
-          for uploading pdfs to a wordpress website<br />
+          ⬆ for uploading pdfs to a wordpress website<br />
         </li>
       </ul>
   </details>
@@ -62,11 +62,11 @@
       <summary>🎓 <strong>University projects</strong></summary>
       <ul>
         <li>
-          SoftUni <strong>mini projects</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
+          SoftUni <strong>minis</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
         </li>
         <li>
           <details>
-              <summary><strong>FMI projects</strong></summary>
+              <summary><strong>FMI</strong></summary>
               <ul>
                 <li>
                   API website <i>(Check it <a href="https://github.com/Velyord/CRUD-and-API-Requests-with-Csharp" target="_blank">here</a>)</i>
@@ -107,6 +107,9 @@
       <details>  
           <summary>SoftUni</summary>
           <ul>
+            <li>
+              <i>04.04.23</i> - Successfully completed a course <strong>Programming Fundamentals</strong> with 5.92
+            </li>
             <li>
               <i>13.12.22</i> - Successfully completed a course <strong>Programming Basics</strong> with 6.00
             </li>
