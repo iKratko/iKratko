@@ -105,7 +105,7 @@
       </ul>
       </details>  
       <details>  
-          <summary>SoftUni</summary>
+          <summary>Software University</summary>
           <ul>
             <li>
               <i>04.04.23</i> - Successfully completed a course <strong>Programming Fundamentals</strong> with 5.92
