@@ -25,11 +25,30 @@
 
 ### ✅ Completed projects:
 <ul>
-  🏫 Language High school <strong>website</strong> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
-  📖 Library <strong>website</strong> <i>(Check it <a href="http://digitlib.org" target="_blank">here</a>)</i><br />
-  📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(Private use. See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
   <details>
-      <summary>🤖 <strong>Automation script</strong> in python</summary>
+      <summary>💻 <strong>Websites</strong></summary>
+      <ul>
+        <li>
+          🏫 Language High school <strong>website</strong> <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
+        </li>
+        <li>
+          📖 Library <strong>website</strong> <i>(Check it <a href="http://digitlib.org" target="_blank">here</a>)</i><br />
+        </li>
+      </ul>
+  </details>
+  <details>
+      <summary>💻 <strong>Projects for companies</strong></summary>
+      <ul>
+        <li>
+          📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
+        </li>
+        <li>
+          📺 <strong>Android TV app</strong> for streaming live tv <i>(See pictures <a href="https://imgur.com/a/7tsyMYM" target="_blank">here</a>)</i><br />
+        </li>
+      </ul>
+  </details>  
+  <details>
+      <summary>🤖 <strong>Automation scripts</strong> in python</summary>
       <ul>
         <li>
           for downloading data from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
@@ -38,13 +57,13 @@
           for uploading pdfs to a wordpress website<br />
         </li>
       </ul>
-      </details>
+  </details>
   💻 SoftUni <strong>mini projects</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
 </ul> 
 
 ### 🛠 Currently working on:
 <ul>
-  📱 <strong>Android app</strong> for streaming live tv <i>(Pocket tv)</i>
+  📺 <strong>LG TV app</strong> for streaming live tv
 </ul>
 
 <details>
