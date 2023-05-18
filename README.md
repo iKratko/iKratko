@@ -58,7 +58,31 @@
         </li>
       </ul>
   </details>
-  💻 SoftUni <strong>mini projects</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
+  <details>
+      <summary>🎓 <strong>University projects</strong></summary>
+      <ul>
+        <li>
+          SoftUni <strong>mini projects</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
+        </li>
+        <li>
+          <details>
+              <summary><strong>FMI projects</strong></summary>
+              <ul>
+                <li>
+                  API website <i>(Check it <a href="https://github.com/Velyord/CRUD-and-API-Requests-with-Csharp" target="_blank">here</a>)</i>
+                </li>
+                <li>
+                    Drawing software <i>(Check it <a href="https://github.com/Velyord/Drawing-Software-with-Csharp" target="_blank">here</a>)</i>
+                </li>
+                  <li>
+                    Truck driver database <i>(Check it <a href="https://github.com/Velyord/Truck-Driver-Database-with-Java" target="_blank">here</a>)</i>
+                </li>
+              </ul>
+          </details>
+        </li>
+      </ul>
+  </details>
+  
 </ul> 
 
 ### 🛠 Currently working on:
