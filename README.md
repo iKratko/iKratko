@@ -40,10 +40,10 @@
       <summary>🏭 <strong>Projects for companies</strong></summary>
       <ul>
         <li>
-          📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
+          📺 <strong>Android TV app</strong> for streaming live tv <i>(See pictures <a href="https://imgur.com/a/7tsyMYM" target="_blank">here</a>)</i><br />
         </li>
         <li>
-          📺 <strong>Android TV app</strong> for streaming live tv <i>(See pictures <a href="https://imgur.com/a/7tsyMYM" target="_blank">here</a>)</i><br />
+          📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
         </li>
       </ul>
   </details>  
