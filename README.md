@@ -69,16 +69,16 @@
               <summary><strong>FMI</strong></summary>
               <ul>
                 <li>
-                  API website <i>(Check it <a href="https://github.com/Velyord/CRUD-and-API-Requests-with-Csharp" target="_blank">here</a>)</i>
+                  📡 API website <i>(Check it <a href="https://github.com/Velyord/CRUD-and-API-Requests-with-Csharp" target="_blank">here</a>)</i>
                 </li>
                 <li>
-                    Drawing software <i>(Check it <a href="https://github.com/Velyord/Drawing-Software-with-Csharp" target="_blank">here</a>)</i>
+                   🎨 Drawing software <i>(Check it <a href="https://github.com/Velyord/Drawing-Software-with-Csharp" target="_blank">here</a>)</i>
                 </li>
                 <li>
-                    Truck driver database <i>(Check it <a href="https://github.com/Velyord/Truck-Driver-Database-with-Java" target="_blank">here</a>)</i>
+                   🚚 Truck driver database <i>(Check it <a href="https://github.com/Velyord/Truck-Driver-Database-with-Java" target="_blank">here</a>)</i>
                 </li>
                 <li>
-                    Online store <i>(Check it <a href="https://github.com/Velyord/Online-Shop-with-HTML-and-CSS" target="_blank">here</a>)</i>
+                   🔌 Online store <i>(Check it <a href="https://github.com/Velyord/Online-Shop-with-HTML-and-CSS" target="_blank">here</a>)</i>
                 </li>
               </ul>
           </details>
