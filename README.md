@@ -74,8 +74,11 @@
                 <li>
                     Drawing software <i>(Check it <a href="https://github.com/Velyord/Drawing-Software-with-Csharp" target="_blank">here</a>)</i>
                 </li>
-                  <li>
+                <li>
                     Truck driver database <i>(Check it <a href="https://github.com/Velyord/Truck-Driver-Database-with-Java" target="_blank">here</a>)</i>
+                </li>
+                <li>
+                    Online store <i>(Check it <a href="https://github.com/Velyord/Online-Shop-with-HTML-and-CSS" target="_blank">here</a>)</i>
                 </li>
               </ul>
           </details>
