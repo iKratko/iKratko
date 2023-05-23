@@ -51,7 +51,7 @@
       <summary>🤖 <strong>Automation scripts</strong> in python</summary>
       <ul>
         <li>
-          ⬇ for downloading data from a doctor software <i>(+ message alert when given doctor is completed)</i><br />
+          ⬇ for downloading data from a doctor software<br />
         </li>
         <li>
           ⬆ for uploading pdfs to a wordpress website<br />
