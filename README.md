@@ -48,7 +48,7 @@
       </ul>
   </details>  
   <details>
-      <summary>🤖 <strong>Automation scripts</strong> in python</summary>
+      <summary>🤖 <strong>Automation scripts</strong></summary>
       <ul>
         <li>
           ⬇ for downloading data from a doctor software<br />
