@@ -90,7 +90,7 @@
 
 ### 🛠 Currently working on:
 <ul>
-  📺 <strong>LG TV app</strong> for streaming live tv
+  🦷 <strong>Website</strong> for dentists
 </ul>
 
 <details>
