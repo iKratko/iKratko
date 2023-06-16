@@ -43,7 +43,7 @@
           📺 <strong>Android & LG TV app</strong> for streaming live tv <i>(See pictures <a href="https://imgur.com/a/7tsyMYM" target="_blank">here</a>)</i><br />
         </li>
         <li>
-          📊 Dinamic charts with political voting results, used in local tv as live overlay during news <i>(See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
+          📊 Dinamic charts used in local tv as live overlay during news <i>(See pictures <a href="https://imgur.com/a/4f0rDsn" target="_blank">here</a>)</i><br />
         </li>
       </ul>
   </details>  
