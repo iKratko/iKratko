@@ -6,8 +6,8 @@
     
 ### 🏭 Working at:
 <ul>
-  📺 Software department of an internet and television company <br />
-  👦🏻 <i>Previously as:</i> Kids instructor of mental arithmetics and programing + robotics
+  📺 Software department of an internet and television company <i>(since september 2022)</i><br />
+  👦🏻 <i>Previously as:</i> Kids instructor of mental arithmetics and programing + robotics (4+ years)
 </ul>
 
 ### 🎯 Goals:
