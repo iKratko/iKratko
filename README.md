@@ -95,7 +95,7 @@
 
 ### 🛠 Currently working on:
 <ul>
-  🦷 <strong>Website</strong> for dentists
+  🦷 <strong>Website</strong> for dentists</br>
   🏥 <strong>Website</strong> - ambulatory
 </ul>
 
