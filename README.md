@@ -56,10 +56,10 @@
       <summary>🤖 <strong>Automation scripts</strong></summary>
       <ul>
         <li>
-          ⬇ for downloading data from a doctor software<br />
+          ⬇ for downloading data from a doctor software <i>(Check it <a href="https://sites.google.com/view/velyord/automation-scripts" target="_blank">here</a>)</i><br />
         </li>
         <li>
-          ⬆ for uploading pdfs to a wordpress website<br />
+          ⬆ for uploading pdfs to a wordpress website <i>(Check it <a href="https://sites.google.com/view/velyord/automation-scripts" target="_blank">here</a>)</i><br />
         </li>
       </ul>
   </details>
