@@ -89,8 +89,7 @@
           </details>
         </li>
       </ul>
-  </details>
-  
+  </details>  
 </ul> 
 
 ### 🛠 Currently working on:
