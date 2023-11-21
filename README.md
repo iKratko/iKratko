@@ -94,8 +94,9 @@
 
 ### 🛠 Currently working on:
 <ul>
-  🦷 <strong>Website</strong> for dentists</br>
-  🏥 <strong>Website</strong> - ambulatory
+  🦷 <strong>Website</strong> - dentiststry </br>
+  🏥 <strong>Website</strong> - ambulatory </br>
+  🏥 <strong>Website</strong> - dermatology
 </ul>
 
 <details>
