@@ -12,25 +12,25 @@
 ### 🏭 Working at:
 <ul>
   📺 Software department of an internet and television company <i>(since september 2022)</i><br />
-  <img align="right" width="50%" src="https://camo.githubusercontent.com/744bb64e8a2dab0cbcf95f4ee576ac73d74a840594afbe4a359f860113dc10bb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56656c796f7264267468656d653d6d6174726978266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d342672616e6b3d5345435245542c5353532c53532c532c4141412c41412c412c422c4326726f773d3226636f6c756d6e3d33" />
   👦🏻 <i>Previously as:</i> Kids instructor of mental arithmetics and programing + robotics <i>(4+ years)</i>
 </ul>
 
 ### 🎯 Goals:
 <ul>
+      <img align="right" width="50%" src="https://camo.githubusercontent.com/744bb64e8a2dab0cbcf95f4ee576ac73d74a840594afbe4a359f860113dc10bb/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d56656c796f7264267468656d653d6d6174726978266e6f2d6672616d653d74727565266e6f2d62673d74727565266d617267696e2d773d342672616e6b3d5345435245542c5353532c53532c532c4141412c41412c412c422c4326726f773d3226636f6c756d6e3d33" />
   💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i><br />
   🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence
 </ul>
 
 ### 🏆 Achivements:
 <ul>
-    <img align="right" width="31%" src="https://metrics.lecoq.io/velyord?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&config.timezone=Europe%2FSofia" />
   🎓 <strong>Bachelor's degree</strong> in Informatics<br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
   🏫 <strong>High school diploma</strong> in Mathematics and Informatics<br><i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
 
 ### ✅ Completed projects:
 <ul>
+        <img align="right" width="50%" src="https://metrics.lecoq.io/velyord?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&config.timezone=Europe%2FSofia" />
   <details>
       <summary>🎨 <strong>Websites</strong></summary>
       <ul>
