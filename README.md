@@ -90,7 +90,15 @@
           </details>
         </li>
       </ul>
-  </details>  
+  </details>
+    <details>
+      <summary>🦄 <strong>Other</strong></summary>
+      <ul>
+        <li>
+            🖌️ <strong>Digital photo art</strong> <i>(Check them <a href="https://sites.google.com/view/velyord/photo-art" target="_blank">here</a>)</i>
+        </li>
+      </ul>
+    </details>  
 </ul> 
 
 ### 🛠 Currently working on:
