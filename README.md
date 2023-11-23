@@ -109,6 +109,8 @@
   🏥 <strong>Website</strong> - dermatology
 </ul>
 
+<img align="right" width="50%" src="https://metrics.lecoq.io/velyord?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&config.timezone=Europe%2FSofia" />
+
 <details>
   <summary><h3>🏅 Certificates:</h3></summary>
     
@@ -200,8 +202,6 @@
 <img align="left" alt="jQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 <img align="left" alt="ASP.Net" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373442/asp.svg"/>
 <img align="left" alt="WordPress" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/475696/wordpress-color.svg"/>
-
-<img align="right" width="50%" src="https://metrics.lecoq.io/velyord?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&config.timezone=Europe%2FSofia" />
 
 <br /><br />
 
