@@ -3,7 +3,7 @@
 
 **`Digital Craftsman (with a passion for Automation)`**
 
-### 💻 Website: 
+### 💻 Website / Portfolio: 
 <ul>
     👉 https://sites.google.com/view/velyord
 </ul>
