@@ -197,5 +197,6 @@
 <img align="left" alt="PremierePro" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/452150/adobe-premiere.svg"/>
 <img align="left" alt="Excel" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/373589/excel.svg"/>
 
-<br>
+<br><br>
+
 [![](https://visitcount.itsvg.in/api?id=Velyord&icon=5&color=0)](https://visitcount.itsvg.in)
