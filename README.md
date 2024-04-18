@@ -11,15 +11,15 @@
 ### 🏭 Working at:
 <ul>
     
-  📺 Software department of an internet and television company <i>(since september 2022)</i><br />
-  👦🏻 <i>Previously as:</i> Kids instructor of mental arithmetics and programing + robotics <i>(4+ years)</i>
+  📺 Software department of an internet and television company <i>(2022 - today)</i><br />
+  👦🏻 <i>Previously as:</i> Kids instructor of mental arithmetics and programing + robotics <i>(2018 - 2022)</i>
 </ul>
 
 ### 🎯 Goals:
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velyord&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 <ul> 
+  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence 
   💻 Obtaining the title <strong>Software engeneer</strong> on Java path <i>(from Software University)</i><br />
-  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence
 </ul>
 
 ### 🏆 Achivements:
