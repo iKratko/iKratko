@@ -71,6 +71,16 @@
       <summary>🎓 <strong>University projects</strong></summary>
       <ul>
         <li>
+          <details>
+              <summary><strong>NVU</strong></summary>
+              <ul>
+                <li>
+                  🤖 Grumpy and Annoyed Chatbot <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/national-military-university" target="_blank">here</a>)</i>
+                </li>
+              </ul>
+          </details>
+        </li>  
+        <li>
           SoftUni <strong>minis</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
         </li>
         <li>
