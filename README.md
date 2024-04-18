@@ -29,7 +29,7 @@
 </ul>
 
 ### ✅ Completed projects:
-<img align="right" width="50%" src="" />
+<!--<img align="right" width="50%" src="" />-->
 <ul>
   <details>
       <summary>🎨 <strong>Websites</strong></summary>
@@ -121,7 +121,7 @@
   🏥 <strong>Website</strong> - dermatology
 </ul>
 
-<img align="right" width="50%" src="" />
+<!--<img align="right" width="50%" src="" />-->
 
 <details>
   <summary><h3>🏅 Certificates:</h3></summary>
