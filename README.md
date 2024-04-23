@@ -98,9 +98,6 @@
                 <li>
                    🚚 Truck driver database <i>(Check it <a href="https://github.com/Velyord/Truck-Driver-Database-with-Java" target="_blank">here</a>)</i>
                 </li>
-                <li>
-                   🔌 Online store <i>(Check it <a href="https://github.com/Velyord/Online-Shop-with-HTML-and-CSS" target="_blank">here</a>)</i>
-                </li>
               </ul>
           </details>
         </li>
@@ -110,7 +107,7 @@
       <summary>🦄 <strong>Other</strong></summary>
       <ul>
         <li>
-            🖌️ <strong>Digital photo art</strong> <i>(Check them <a href="https://sites.google.com/view/velyord/photo-art" target="_blank">here</a>)</i>
+            🖌️ <strong>Digital photo art</strong> <i>(Check them <a href="https://sites.google.com/view/velyord/digital-photo-art" target="_blank">here</a>)</i>
         </li>
       </ul>
     </details>  
