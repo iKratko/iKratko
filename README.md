@@ -49,7 +49,7 @@
       <summary>🏭 <strong>Projects for companies</strong></summary>
       <ul>
         <li>
-          📺 <strong><a href="https://sites.google.com/view/velyord/android-tv-app" target="_blank">Android</a>, <a href="https://sites.google.com/view/velyord/lg-webos-tv-app" target="_blank">LG</a> and <a href="https://sites.google.com/view/velyord/samsung-tizen-tv-app">Samsung</a> TV app</strong> for streaming live tv <i>(See pictures)</i><br />
+          📺 <strong><a href="https://sites.google.com/view/velyord/android-tv-app" target="_blank">Android</a>, <a href="https://sites.google.com/view/velyord/lg-webos-samsung-tizen-tv-apps" target="_blank">LG and Samsung</a> TV apps</strong> for streaming live tv <i>(See pictures)</i><br />
         </li>
         <li>
           📊 Dinamic charts used in local tv as live overlay during news <i>(See pictures <a href="https://sites.google.com/view/velyord/dinamic-charts" target="_blank">here</a>)</i><br />
