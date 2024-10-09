@@ -136,8 +136,9 @@
 
 <!--<img align="right" width="50%" src="" />-->
 
+### 🏅 Certificates:
 <details>
-  <summary><h3>🏅 Certificates:</h3></summary>
+  <summary><h3>Show:</h3></summary>
     
   <ul>
     <details>
