@@ -136,10 +136,7 @@
 
 <!--<img align="right" width="50%" src="" />-->
 <details>
-### 🏅 Certificates:
-
-  <summary><h3>Show:</h3></summary>
-    
+  <h3><summary><h3>🏅 Certificates:</h3></summary></h3>
   <ul>
     <details>
       <summary>Plovdiv University</summary>
