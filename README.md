@@ -91,7 +91,14 @@
           </details>
         </li>
         <li>
-          SoftUni <strong>minis</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
+          <details>
+            <summary><strong>SoftUni</strong></summary>
+            <ul>
+              <li>
+                  <strong>minis</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
+              </li>  
+            </ul>
+          </details>          
         </li>
         <li>
           <details>
