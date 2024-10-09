@@ -80,12 +80,16 @@
               <ul>
                 <li>
                     🤖 Grumpy and Annoyed Chatbot <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/grumpy-and-annoyed-chatbot" target="_blank">here</a>)</i>
-                    🔍 Item Finder with Computer Vision <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/item-finder-with-computer-vision" target="_blank">here</a>)</i>
-                    📈 Investing Decisions Maker <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/investing-decisions-maker" target="_blank">here</a>)</i>
                 </li>
+                <li>
+                    🔍 Item Finder with Computer Vision <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/item-finder-with-computer-vision" target="_blank">here</a>)</i>
+                </li>
+                <li>
+                    📈 Investing Decisions Maker <i>(Check it <a href="https://sites.google.com/view/velyord/university-projects/investing-decisions-maker" target="_blank">here</a>)</i>
+                </li>  
               </ul>
           </details>
-        </li>  
+        </li>
         <li>
           SoftUni <strong>minis</strong> <i>(Check them <a href="https://replit.com/@Velyord" target="_blank">here</a>)</i>
         </li>
