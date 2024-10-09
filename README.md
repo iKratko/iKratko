@@ -33,16 +33,17 @@
 <ul>
   <details>
       <summary>🎨 <strong>Websites</strong></summary>
-      <ul>
+      <ul><!--
         <li>
           🏥 Language High school <i>(Check it <a href="https://medsestriplovdiv.bg" target="_blank">here</a>)</i><br />
         </li>
-        <li>
-          🏫 Language High school <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
-        </li>
+        -->
         <li>
           🦷 Dentiststry <i>(Check it <a href="https://sclinic.bg" target="_blank">here</a>)</i><br />
-        </li>
+        </li>  
+        <li>
+          🏫 Language High school <i>(Check it <a href="https://www.eg-dg-bg.com" target="_blank">here</a>)</i><br />
+        </li>        
         <li>
           📖 Library <i>(Check it <a href="https://digitlib.org/градска-библиотека-пеньо-п/" target="_blank">here</a>)</i><br />
         </li>
