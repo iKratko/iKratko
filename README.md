@@ -135,60 +135,58 @@
 </ul>
 
 <!--<img align="right" width="50%" src="" />-->
+
+### 🏅 Certificates:
+
 <details>
-  <summary><h3>🏅 Certificates:</h3></summary>
+  <summary>Plovdiv University</summary>
   <ul>
-    <details>
-      <summary>Plovdiv University</summary>
+    <li>
+      <i>18.03.23</i> - Certificate of commendation. Top of the class
+    </li>
+  </ul>
+  </details>  
+  <details>  
+      <summary>Software University</summary>
       <ul>
         <li>
-          <i>18.03.23</i> - Certificate of commendation. Top of the class
+          <i>04.04.23</i> - Successfully completed a course <strong>Programming Fundamentals</strong> with 5.92
+        </li>
+        <li>
+          <i>13.12.22</i> - Successfully completed a course <strong>Programming Basics</strong> with 6.00
+        </li>
+        <li>
+          <i>23.11.22</i> - Successfully completed a course <strong>Android Development with Kotlin</strong> with 5.76
         </li>
       </ul>
-      </details>  
-      <details>  
-          <summary>Software University</summary>
-          <ul>
-            <li>
-              <i>04.04.23</i> - Successfully completed a course <strong>Programming Fundamentals</strong> with 5.92
-            </li>
-            <li>
-              <i>13.12.22</i> - Successfully completed a course <strong>Programming Basics</strong> with 6.00
-            </li>
-            <li>
-              <i>23.11.22</i> - Successfully completed a course <strong>Android Development with Kotlin</strong> with 5.76
-            </li>
-          </ul>
-    </details>
-    <details>
-      <summary>IXth International Conference of Young Scientists - Plovdiv 2022</summary>
-      <ul>
-        <li>
-          <i>14.07.22</i> - <strong>Presenting a scientific paper</strong> entitled "Lesson in IT with artificial intelligence GalaAI"
-        </li>
-        <li>
-          <i>14.07.22</i> - <strong>Best presentation</strong> in the scientific section "TECHNICS AND TECHNOLOGIES"
-        </li>
-      </ul>
-    </details>
-    <details>
-      <summary>Mental Arithmetic:</summary>
-      <ul>
-        <li>
-          <i>07.01.22</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 4</strong>
-        </li>
-        <li>
-          <i>10.01.20</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 3</strong>
-        </li>
-        <li>
-          <i>30.07.19</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 2</strong>
-        </li>
-        <li>
-          <i>15.03.19</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 1</strong>
-        </li>
-      </ul>
-    </details>
-  </ul>  
+</details>
+<details>
+  <summary>IXth International Conference of Young Scientists - Plovdiv 2022</summary>
+  <ul>
+    <li>
+      <i>14.07.22</i> - <strong>Presenting a scientific paper</strong> entitled "Lesson in IT with artificial intelligence GalaAI"
+    </li>
+    <li>
+      <i>14.07.22</i> - <strong>Best presentation</strong> in the scientific section "TECHNICS AND TECHNOLOGIES"
+    </li>
+  </ul>
+</details>
+<details>
+  <summary>Mental Arithmetic:</summary>
+  <ul>
+    <li>
+      <i>07.01.22</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 4</strong>
+    </li>
+    <li>
+      <i>10.01.20</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 3</strong>
+    </li>
+    <li>
+      <i>30.07.19</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 2</strong>
+    </li>
+    <li>
+      <i>15.03.19</i> - Successfully completed the training and passed the examination on knowledge of mental arithmetic - <strong>Level 1</strong>
+    </li>
+  </ul>
 </details>
 
 ---
