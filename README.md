@@ -25,7 +25,6 @@
 
 ### 🎯 Goals:
 <ul> 
-  🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence 
   💻 Obtaining the title <strong>Software engineer</strong> on Java path <i>(from Software University)</i><br />
 </ul>
 
