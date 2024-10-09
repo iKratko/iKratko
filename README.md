@@ -15,17 +15,18 @@
   👦🏻 <i>Previously as:</i> Kids instructor of mental arithmetics and programing + robotics <i>(2018 - 2022)</i>
 </ul>
 
-### 🎯 Goals:
+### 🏆 Achievements:
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Velyord&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<ul>
+  🤖 <strong>Master's degree</strong>strong> in Artificial Intelligence (2023 - 2024)<br><i>(from National Military University "Vasil Levski" with average score: 5.93)</i><br />
+  🎓 <strong>Bachelor's degree</strong> in Informatics (2018 - 2022)<br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
+  🏫 <strong>High school diploma</strong> in Mathematics and Informatics (2013 - 2018)<br><i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
+</ul>
+
+### 🎯 Goals:
 <ul> 
   🤖 Obtaining <strong>Master's degree</strong> in Artificial Intelligence 
   💻 Obtaining the title <strong>Software engineer</strong> on Java path <i>(from Software University)</i><br />
-</ul>
-
-### 🏆 Achievements:
-<ul>
-  🎓 <strong>Bachelor's degree</strong> in Informatics<br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
-  🏫 <strong>High school diploma</strong> in Mathematics and Informatics<br><i>(from "Akademik Boyan Petkanchin" Haskovo with average score: 5.71)</i>
 </ul>
 
 ### ✅ Completed projects:
