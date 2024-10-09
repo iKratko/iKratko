@@ -136,7 +136,7 @@
 
 <!--<img align="right" width="50%" src="" />-->
 <details>
-  <h3><summary><h3>🏅 Certificates:</h3></summary></h3>
+  <summary><h3>🏅 Certificates:</h3></summary>
   <ul>
     <details>
       <summary>Plovdiv University</summary>
