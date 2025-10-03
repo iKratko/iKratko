@@ -16,7 +16,6 @@
 </ul>
 
 ### 🏆 Achievements:
-<img align="right" width="50%" src="" />
 <ul>
   🤖 <strong>Master's degree</strong> in Artificial Intelligence (2023 - 2024)<br><i>(from National Military University "Vasil Levski" with average score: 5.93)</i><br />
   🎓 <strong>Bachelor's degree</strong> in Informatics (2018 - 2022)<br><i>(from Plovdiv University "Paisii Hilendarski" with average score: 5.74)</i><br />      
